@@ -1,0 +1,15 @@
+Capstone Project Ideas
+1.	Predictive Maintenance – Can we predict equipment breakdown using both vibration analysis and downtime event data?
+a.	Problem: Unscheduled maintenance events cause costly delays and preventive maintenance is often performed before it is necessary.
+b.	Benefit: Avoid the cost of unscheduled breakdowns and unnecessary maintenance tasks by allocating resources only to the equipment that requires attention.
+c.	Data: I currently have access to downtime event data and can collect vibration data using the VibSensor app for iPhone.
+
+2.	Accident Prevention – Can we determine when an on-the-job injury is more likely to occur? Are employees more likely to engage in unsafe behavior before or after a holiday, on certain days of the week, or under certain temperature conditions?
+a.	Problem: In addition to physical harm, workplace injuries can result in a loss of income for workers and a loss of productivity for manufacturers. Efforts to increase safety awareness often become repetitive and do not hold the attention of the workforce.
+b.	Benefit: Achieve the maximum benefit from safety awareness events by targeting high risk days instead of following an arbitrary schedule. 
+c.	Data: OSHA injury records https://www.osha.gov/severeinjury/index.html, weather records https://www.ncdc.noaa.gov/isd/data-access, and calendar data. 
+
+3.	Supplier Quality Analysis – Can we determine which components run most efficiently on a production line?
+a.	Problem: Often components from outside suppliers pass initial quality inspection despite minute variance in size, shape, or weight. Equipment performs better with consistency and these small variances can cause unforeseen delays.
+b.	Benefit: Determining which components run most efficiently will allow purchasers to focus on these items.
+c.	Data: I currently have access to production downtime data as well as bills of materials. 
